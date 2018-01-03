@@ -140,6 +140,7 @@
 
 ! C
 ||cachemoment.com
+||cctv.com
 ||cdn.jsdelivr.net
 ||cdnbee.com
 ||cdndm.com
@@ -480,7 +481,6 @@
 ||songshuhui.net
 ||soso.com
 ||soufun.com
-||speedtest.net
 ||sspai.com
 ||stargame.com
 ||steamcn.com
